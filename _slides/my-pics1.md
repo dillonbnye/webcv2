@@ -7,7 +7,7 @@ loop: true
 permalink: /slides/my-pics1.html
 ---
 * ![A nice pic of mine](my-pics1/img2.jpg)  
-  A NOESY NMR spectrum gives information about the structure of a protein. This spectrum has 4 dimensions: 3 are nuclear frequencies and the 4th is intensity. Here, the structure of a globin variant is shown to be different from that of the parent protein. We found that a single residue change causes the heme cofactor to move from its native position. <i>Unpublished data.</i>
+  A NOESY NMR spectrum gives information about the structure of a protein. This spectrum has 4 dimensions: 3 are nuclear frequencies and the 4th is intensity (contours). Here, the structure of a globin variant is shown to be different from that of the parent protein. We found that a single residue change causes the heme cofactor to move from its native position. <i>Unpublished data.</i>
 
   Hemoglobins have been around for hundreds of millions of years, and almost always conserve the globin topology and standard heme site. This new conformation has the usual topology but a novel binding site, offering insight into the flexibility of the globin family.
 * ![A nice pic of mine](my-pics1/img1.jpg)  
@@ -25,6 +25,6 @@ permalink: /slides/my-pics1.html
   Proteins exist as many intercoverting species all at once. NMR is an incredible technique to derive atomic resolution structural, kinetic and thermodynamic information from these complex ensembles.
 
 * ![A nice pic of mine](my-pics1/img5.jpg)  
-  The reductive conversion of nitric oxide to HNO by a cyanobacterial hemoglobin. Increasingly powerful reductants were required to drive this difficult reaction. Production of the rare HNO molecule was confirmed with NMR using isotopically labelled substrate. Adapted from Preimesberger, M. P., et al. (2017) <i>J. Inorg. Biochem. 177</i>, 171-182.
+  The reductive conversion of nitric oxide to HNO by a cyanobacterial hemoglobin. Increasingly powerful reductants were required to drive this difficult reaction. Production of the rare HNO molecule was confirmed with NMR using isotopically labeled substrate. Adapted from Preimesberger, M. P., et al. (2017) <i>J. Inorg. Biochem. 177</i>, 171-182.
 
   Nitric oxide is most noted for its role in cell signaling. In cyanobacteria and alga, it can be a secondary metabolite and toxic radical. Globins are able to catalyze a number of detoxifying reactions with ROS and RNS, but the production of HNO was certainly unexpected.
