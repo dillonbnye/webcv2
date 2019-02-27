@@ -6,12 +6,16 @@ auto: true
 loop: true
 permalink: /slides/my-pics1.html
 ---
+* ![A nice pic of mine](my-pics1/img6.jpg)  
+  The sequence logo of truncated hemoglobins illustrates low sequence conservation in this polyfunctional protein family. Variability at the position of Lys53, a heme iron ligand, contributes to the functional diversity. Here, the model globin THB1 was used as a scaffold to replace Lys53 with residues found at this position in related proteins. The NMR spectra represent thorough characterization of the structural and reactive properties of these variants. <i>Unpublished data.</i>
+
+  Truncated hemoglobins make use of a common fold and cofactor to achieve functional diversity. They do so with subtle and dispersed changes in protein sequence. Availability of thousands of sequences offers new avenues to investigate protein sequence-structure-function paradigm.    
 * ![A nice pic of mine](my-pics1/img2.jpg)  
-  A NOESY NMR spectrum gives information about the structure of a protein. This spectrum has 4 dimensions: 3 are nuclear frequencies and the 4th is intensity (contours). Here, the structure of a globin variant is shown to be different from that of the parent protein. We found that a single residue change causes the heme cofactor to move from its native position. <i>Unpublished data.</i>
+  A NOESY NMR spectrum gives information about the structure of a protein. This spectrum has 4 dimensions: 3 are nuclear frequencies and the 4th is intensity (contours). Here, the structure of a globin variant is shown to be different from that of the parent protein. We found that a single residue change causes the heme cofactor to move from its native position. Adapted from Nye, D. B., et al. (2018) <i>Biochemistry 57</i>, 5785-5796.
 
   Hemoglobins have been around for hundreds of millions of years, and almost always conserve the globin topology and standard heme site. This new conformation has the usual topology but a novel binding site, offering insight into the flexibility of the globin family.
 * ![A nice pic of mine](my-pics1/img1.jpg)  
-  A heme transfer experiment performed on a cyanobacterial hemoglobin. Rapid release of heme reflects low-affinity binding, and this variant loses the cofactor ~1000x faster than the parent protein. By removing a non-conserved ligand to the iron, we perturb the heme site and dramatically lower the binding affinity. <i>Unpublished data.</i>
+  A heme transfer experiment performed on a cyanobacterial hemoglobin. Rapid release of heme reflects low-affinity binding, and this variant loses the cofactor ~1000x faster than the parent protein. By removing a non-conserved ligand to the iron, we perturb the heme site and dramatically lower the binding affinity. Adapted from Nye, D. B., et al. (2018) <i>Biochemistry 57</i>, 5785-5796.
 
   Productive interactions between a protein and its cofactor are complex and difficult to engineer. Over time, hemoglobins have evolved multiple mechanisms to ensure strong association with the prosthetic group.
 * ![A nice pic of mine](my-pics1/img3.jpg)  
