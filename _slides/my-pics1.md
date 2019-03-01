@@ -7,9 +7,9 @@ loop: true
 permalink: /slides/my-pics1.html
 ---
 * ![Stare at a MSA for too long and you will go mad](my-pics1/img6.jpg)  
-  The sequence logo of truncated hemoglobins illustrates low sequence conservation in this polyfunctional protein family. Variability at the position of Lys53, a heme iron ligand, contributes to the functional diversity. Here, the model globin THB1 was used as a scaffold to replace Lys53 with other residues found at this position. The NMR spectra represent thorough characterization of structural and reactive properties of these variants. <i>Unpublished data.</i>
+  The sequence logo of truncated hemoglobins illustrates low sequence conservation in this polyfunctional protein family. Here, the model globin THB1 was used as a scaffold to replace Lys53 with other residues found at this position. These replacements produce globins with varied structural and reactive properties. <i>Unpublished data.</i>
 
-  Truncated hemoglobins make use of a common fold and cofactor to achieve functional diversity. They do so with subtle and dispersed changes in protein sequence. Availability of thousands of sequences offers new avenues to investigate protein sequence-structure-function paradigm.    
+  Hemoglobins make use of a common fold and cofactor to achieve functional diversity. They do so with subtle and dispersed changes in protein sequence. The sequencing revolution offers new avenues to investigate the sequence-structure-function paradigm in globins.    
 * ![I tried for years to get an x-ray structure](my-pics1/img2.jpg)  
   A NOESY NMR spectrum gives information about the structure of a protein. This spectrum has 4 dimensions: 3 are nuclear frequencies and the 4th is intensity (contours). Here, the structure of a globin variant is shown to be different from that of the parent protein. We found that a single residue change causes the heme cofactor to move from its native position. Adapted from Nye, D. B. and Lecomte, J. T. J. (2018) <i>Biochemistry 57</i>, 5785-5796.
 
